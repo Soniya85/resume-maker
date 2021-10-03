@@ -1,2 +1,1 @@
-# resume-maker
-build a resume 
+The code is deployed on Heroku and you can check the website at: https://faizan-cv-generator.herokuapp.com/
